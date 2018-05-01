@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CurrentAccountFrog()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CurrentAccountFrog\r\n
+comment1.params=aHolder\ aNumber\ aBalance\ aLimit\ aPin
+comment1.target=CurrentAccountFrog(java.lang.String,\ java.lang.String,\ double,\ double,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CurrentAccountFrog\ \r\n\ that\ takes\ aHolder,\ aNumber,\ aBalance,\ aLimit,\ aPin\ arguments\ \r\n\ to\ initialise\ a\ CurrentAccount\ object\ and\ assigns\ it\ to\ the\ variable\ account.\r\n
+comment2.params=
+comment2.target=void\ catchFly()
+comment2.text=\r\n\ Causes\ the\ receiver\ to\ jump,\ then\ croak,\ then\ move\ right,\ then\ \r\n\ increment\ flyCount\ \r\n\ and\ also\ \r\n\ credits\ the\ accounts\ balance\ by\ 100,\ then\ sets\ its\ colour\ to\ yellow,\ \r\n\ then\ jumps\ once\ more\ and\ then\ sets\ its\ colour\ to\ green.\r\n
+comment3.params=
+comment3.target=double\ value()
+comment3.text=\r\n\ Returns\ the\ taxable\ value\ (position)\ of\ the\ receiver\ as\ a\ Double.\r\n
+comment4.params=taxRate
+comment4.target=double\ payTax(int)
+comment4.text=\r\n\ Decrements\ the\ receivers\ taxable\ value\ (position)\ by\ the\ formal\ argument\ taxRate\r\n\ and\ returns\ the\ taxable\ value\ (position)\ of\ the\ receiver\ as\ a\ Double.\r\n
+numComments=5

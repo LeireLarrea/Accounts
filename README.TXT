@@ -1,0 +1,6 @@
+CurrentAccountFrog f;
+f = new CurrentAccountFrog("john", "123", 120, 20, "17");
+f.catchFly();
+f.getAccount().getBalance();
+f.getAccount().debit(100);
+f.catchFly(3);
